@@ -8,9 +8,8 @@ class Cover extends Component {
     componentDidMount() {
         const options = {
             strings: this.props.strings,
-            typeSpeed: 40,
-            backSpeed: 20,
-            loop: true
+            typeSpeed: 60,
+            backSpeed: 30
         };
 
         this.typed = new Typed(this.element, options);

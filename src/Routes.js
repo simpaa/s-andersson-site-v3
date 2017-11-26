@@ -15,7 +15,7 @@ const Routes = (
   
         <Cover 
           imageUrl="https://www.s-andersson.se/images/IMG_1394.jpg" 
-          strings={['Hello! My name is Simon Andersson.', 'I am a Web and iOS Developer']}/>
+          strings={['Hello! My name is Simon Andersson.', 'I am a Web and iOS Developer.']}/>
         <Menu />
 
           <div className="site-content">
