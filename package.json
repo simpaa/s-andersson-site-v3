@@ -2,6 +2,7 @@
   "name": "s-andersson-v3",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.s-andersson.se/",
   "dependencies": {
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
