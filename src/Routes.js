@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import MyWork from './pages/my-work';
 import About from './pages/about'
 import Contact from './pages/contact'
+import PrivacyPolicy from './pages/privacy-policy';
 import PageNotFound from './pages/404'
 import Cover from './components/cover';
 import Menu from './components/menu';
@@ -23,6 +24,7 @@ const Routes = (
               <Route exact path="/" component={MyWork} />
               <Route path="/about" component={About} />
               <Route path="/contact" component={Contact} />
+              <Route path="/privacy-policy" component={PrivacyPolicy} />
               <Route component={PageNotFound} />
             </Switch>
           </div>
