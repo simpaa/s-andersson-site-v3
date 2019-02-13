@@ -19,12 +19,5 @@ export default [
       imageLink: "https://www.s-andersson.se/images/App%20icon.png",
       projectLink: "https://itunes.apple.com/us/app/msgl0ck-hide-your-messages/id1329557972?mt=8",
       buttonText: "View on App Store"
-    },
-    {
-      title: "No Candy",
-      description: "This is a simple app that tracks how long you have avoid eating candy. I made this app to get a feel for the process of releasing an app on the Apps Store.  My friend come with the idea behind it and I find I good enough to practice on.",
-      imageLink: "https://s-andersson.se/images/no_candy_icon.png",
-      projectLink: "https://itunes.apple.com/us/app/no-candy/id1171759085?mt=8",
-      buttonText: "View on App Store"
     }
 ];
